@@ -1,0 +1,202 @@
+|Pidgeot
+Level: 50
+Hardy Nature
+Ability: Keen Eye
+- Wing Attack
+- Agility
+- Quick Attack
+- Whirlwind
+|Rhyhorn
+Level: 50
+Hardy Nature
+Ability: Lightning Rod
+- Fury Attack
+- Stomp
+- Horn Drill
+- Tail Whip
+|Exeggcute
+Level: 50
+Hardy Nature
+Ability: Chlorophyll
+- Leech Seed
+- Poison Powder
+- Solar Beam
+- Stun Spore
+|Gyarados
+Level: 50
+Hardy Nature
+Ability: Intimidate
+- Dragon Rage
+- Hydro Pump
+- Bite
+- Leer
+|Alakazam
+Level: 50
+Hardy Nature
+Ability: Synchronize
+- Psybeam
+- Psychic
+- Reflect
+- Recover
+|Charizard
+Level: 50
+Hardy Nature
+Ability: Blaze
+- Flamethrower
+- Slash
+- Rage
+- Leer
+|Growlithe
+Level: 50
+Hardy Nature
+Ability: Intimidate
+- Ember
+- Take Down
+- Leer
+- Agility
+|Blastoise
+Level: 50
+Hardy Nature
+Ability: Torrent
+- Hydro Pump
+- Bite
+- Skull Bash
+- Withdraw
+|Venusaur
+Level: 50
+Hardy Nature
+Ability: Overgrow
+- Vine Whip
+- Poison Powder
+- Razor Leaf
+- Growth
+|Pidgeot
+Level: 50
+Hardy Nature
+Ability: Keen Eye
+- Wing Attack
+- Mirror Move
+- Sky Attack
+- Whirlwind
+|Rhydon
+Level: 50
+Hardy Nature
+Ability: Lightning Rod
+- Leer
+- Tail Whip
+- Fury Attack
+- Horn Drill
+|Exeggutor
+Level: 50
+Hardy Nature
+Ability: Chlorophyll
+- Hypnosis
+- Barrage
+- Stomp
+|Gyarados
+Level: 50
+Hardy Nature
+Ability: Intimidate
+- Dragon Rage
+- Hydro Pump
+- Hyper Beam
+- Leer
+|Charizard
+Level: 50
+Hardy Nature
+Ability: Blaze
+- Fire Blast
+- Rage
+- Slash
+- Fire Spin
+|Arcanine
+Level: 50
+Hardy Nature
+Ability: Intimidate
+- Roar
+- Leer
+- Ember
+- Take Down
+|Blastoise
+Level: 50
+Hardy Nature
+Ability: Torrent
+- Hydro Pump
+- Blizzard
+- Bite
+- Withdraw
+|Venusaur
+Level: 50
+Hardy Nature
+Ability: Overgrow
+- Growth
+- Mega Drain
+- Razor Leaf
+- Solar Beam
+|Sandslash
+Level: 50
+Hardy Nature
+Ability: Sand Veil
+- Slash
+- Swift
+- Fury Swipes
+- Poison Sting
+|Magneton
+Level: 50
+Hardy Nature
+Ability: Magnet Pull
+- Thunder Shock
+- Thunder Wave
+- Supersonic
+- Swift
+|Ninetales
+Level: 50
+Hardy Nature
+Ability: Flash Fire
+- Ember
+- Tail Whip
+- Quick Attack
+- Roar
+|Kadabra
+Level: 50
+Hardy Nature
+Ability: Synchronize
+- Psybeam
+- Psychic
+- Reflect
+- Recover
+|Vaporeon
+Level: 50
+Hardy Nature
+Ability: Water Absorb
+- Hydro Pump
+- Mist
+- Haze
+- Acid Armor
+|Cloyster
+Level: 50
+Hardy Nature
+Ability: Shell Armor
+- Withdraw
+- Clamp
+- Supersonic
+- Aurora Beam
+|Jolteon
+Level: 50
+Hardy Nature
+Ability: Volt Absorb
+- Thunder
+- Thunder Wave
+- Pin Missile
+- Agility
+
+
+{
+    "Blue-1-(RGB)": [["Pidgeot", 1], ["Rhyhorn", 9], ["Exeggcute", 17], ["Gyarados", 25], ["Alakazam", 33], ["Charizard", 41]],
+    "Blue-2-(RGB)": [["Pidgeot", 1], ["Rhyhorn", 9], ["Growlithe", 49], ["Exeggcute", 17], ["Alakazam", 33], ["Blastoise", 57]],
+    "Blue-3-(RGB)": [["Pidgeot", 1], ["Rhyhorn", 9], ["Gyarados", 25], ["Growlithe", 49], ["Alakazam", 33], ["Venusaur", 65]],
+    "Blue-4-(RGB)": [["Pidgeot", 73], ["Alakazam", 33], ["Rhydon", 81], ["Exeggutor", 89], ["Gyarados", 96], ["Charizard", 104]],
+    "Blue-5-(RGB)": [["Pidgeot", 73], ["Alakazam", 33], ["Rhydon", 81], ["Arcanine", 112], ["Exeggutor", 89], ["Blastoise", 120]],
+    "Blue-6-(RGB)": [["Pidgeot", 73], ["Alakazam", 33], ["Rhydon", 81], ["Gyarados", 96], ["Arcanine", 112], ["Venusaur", 128]],
+    "Blue-7-(Yw)": [["Sandslash", 136], ["Exeggcute", 17], ["Magneton", 144], ["Ninetales", 152], ["Kadabra", 160], ["Vaporeon", 168]],
+    "Blue-8-(Yw)": [["Sandslash", 136], ["Exeggcute", 17], ["Ninetales", 152], ["Cloyster", 176], ["Kadabra", 160], ["Jolteon", 184]],
